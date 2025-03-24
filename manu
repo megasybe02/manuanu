@@ -1,0 +1,4 @@
+inicio{
+"host":"IP",
+"porta":"PORT"
+}fim
